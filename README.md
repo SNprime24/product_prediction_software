@@ -9,15 +9,15 @@ For running we need to install all libraries mentioned below and run streamlit.r
 ### Prerequisites
 
 Before you begin, make sure you have the following installed:
-import streamlit as st
-from streamlit_option_menu import option_menu
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import sklearn
-import joblib
-import os
+- import streamlit as st
+- from streamlit_option_menu import option_menu
+- import numpy as np
+- import pandas as pd
+- import seaborn as sns
+- import matplotlib.pyplot as plt
+- import sklearn
+- import joblib
+- import os
 
 ### Installation
 
@@ -48,9 +48,9 @@ We have exciting plans for the future development of Kharido.com:
 - Community Feedback Integration: Implement features to collect and utilize user feedback for continuous improvement.
 
 ## Contributing
-•	Ravilisetty Makarandh (22CS01002)
-•	Suprit Naik (22CS01018)
-•	Harsh Maurya (22CS01046)
+-	Ravilisetty Makarandh (22CS01002)
+- Suprit Naik (22CS01018)
+- Harsh Maurya (22CS01046)
  
 ## Acknowledgments
 The dataset used for training the neural network was sourced from Kaggle.
