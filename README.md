@@ -28,7 +28,7 @@ Before you begin, make sure you have the following installed:
 ### Usage
 
 1. Start the web application:
-2. Run streamlit.run from the file location
+2. WRITE IN THE NEW TERMINAL - streamlit run 'DD_customer_management.py'  
 3. Fill out the form with your preferences and submit.
 4. The machine learning models will process your input and provide a sorted list of items.
 
