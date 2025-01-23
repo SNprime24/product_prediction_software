@@ -48,9 +48,11 @@ We have exciting plans for the future development of Kharido.com:
 - Community Feedback Integration: Implement features to collect and utilize user feedback for continuous improvement.
 
 ## Contributing
--	Ravilisetty Makarandh (22CS01002)
+- Ravilisetty Makarandh (22CS01002)
 - Suprit Naik (22CS01018)
 - Harsh Maurya (22CS01046)
  
 ## Acknowledgments
 The dataset used for training the neural network was sourced from Kaggle.
+
+##
